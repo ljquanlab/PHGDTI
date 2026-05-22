@@ -10,11 +10,8 @@ Python version:
 Python 3.8.20
 ```
 
-Install dependencies:
+Dependencies: requirements.txt
 
-```bash
-pip install -r requirements.txt
-```
 
 ## Data Preparation
 
